@@ -178,7 +178,7 @@ export default class MazeGeneration extends Component {
             Clear Maze
           </Button>
         </Navbar>
-        <Container className="bodyContainer" fluid="md">
+        <Container className="bodyContainer" fluid="lg">
           <Row>
             <Col>
               <div id="mazeContainer" className="mazeContainer">
