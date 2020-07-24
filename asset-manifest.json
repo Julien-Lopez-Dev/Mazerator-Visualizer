@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mazerator-Visualizer/static/css/main.80a4f206.chunk.css",
-    "main.js": "/Mazerator-Visualizer/static/js/main.73cff676.chunk.js",
-    "main.js.map": "/Mazerator-Visualizer/static/js/main.73cff676.chunk.js.map",
+    "main.js": "/Mazerator-Visualizer/static/js/main.ba26f08d.chunk.js",
+    "main.js.map": "/Mazerator-Visualizer/static/js/main.ba26f08d.chunk.js.map",
     "runtime-main.js": "/Mazerator-Visualizer/static/js/runtime-main.3791be59.js",
     "runtime-main.js.map": "/Mazerator-Visualizer/static/js/runtime-main.3791be59.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Mazerator-Visualizer/static/css/2.af3c1da9.chunk.css",
     "static/js/2.a183006b.chunk.js": "/Mazerator-Visualizer/static/js/2.a183006b.chunk.js",
     "static/js/2.a183006b.chunk.js.map": "/Mazerator-Visualizer/static/js/2.a183006b.chunk.js.map",
     "index.html": "/Mazerator-Visualizer/index.html",
-    "precache-manifest.47e96441d97b7b429ab25e167f1cebc5.js": "/Mazerator-Visualizer/precache-manifest.47e96441d97b7b429ab25e167f1cebc5.js",
+    "precache-manifest.4faee3bb7f3b8532f2a8893966a6902a.js": "/Mazerator-Visualizer/precache-manifest.4faee3bb7f3b8532f2a8893966a6902a.js",
     "service-worker.js": "/Mazerator-Visualizer/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Mazerator-Visualizer/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.80a4f206.chunk.css.map": "/Mazerator-Visualizer/static/css/main.80a4f206.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a183006b.chunk.js",
     "static/css/main.80a4f206.chunk.css",
-    "static/js/main.73cff676.chunk.js"
+    "static/js/main.ba26f08d.chunk.js"
   ]
 }

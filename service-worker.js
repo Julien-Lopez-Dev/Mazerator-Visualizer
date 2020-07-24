@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mazerator-Visualizer/precache-manifest.47e96441d97b7b429ab25e167f1cebc5.js"
+  "/Mazerator-Visualizer/precache-manifest.4faee3bb7f3b8532f2a8893966a6902a.js"
 );
 
 self.addEventListener('message', (event) => {

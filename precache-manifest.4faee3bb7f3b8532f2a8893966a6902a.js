@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57474818d87a345230ba6d4f93924150",
+    "revision": "8e5b3352c274681d0853264da675b6c3",
     "url": "/Mazerator-Visualizer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mazerator-Visualizer/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4230b2fa535ff9dd5bb0",
+    "revision": "6e6bed76536553a7552c",
     "url": "/Mazerator-Visualizer/static/css/main.80a4f206.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mazerator-Visualizer/static/js/2.a183006b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4230b2fa535ff9dd5bb0",
-    "url": "/Mazerator-Visualizer/static/js/main.73cff676.chunk.js"
+    "revision": "6e6bed76536553a7552c",
+    "url": "/Mazerator-Visualizer/static/js/main.ba26f08d.chunk.js"
   },
   {
     "revision": "514f57f2f13df86db15a",
