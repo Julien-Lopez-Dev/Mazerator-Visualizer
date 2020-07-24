@@ -1,0 +1,24 @@
+.mazeContainer {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  transition-duration: 1.5s;
+}
+
+.btn {
+  margin: 2px;
+}
+
+.btnContainer {
+  padding: 2em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.bodyContainer {
+  margin: 25px;
+}
+
+.navbarBg {
+  background-color: #151515;
+}
